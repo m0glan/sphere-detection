@@ -1,4 +1,4 @@
-package com.github.vmoglan.pcljava.examples;
+package com.github.vmoglan.sphere_detection;
 
 import com.github.vmoglan.pcljava.Point3d;
 import com.github.vmoglan.pcljava.PointCloud3d;
