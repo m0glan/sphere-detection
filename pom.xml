@@ -4,7 +4,7 @@
 	<artifactId>sphere-detection</artifactId>
 	<version>1.0.0</version>
 	<name>Sphere Detection</name>
-	<description>Sample project demonstrating the use of the Point-Cloud Library in Java.</description>
+	<description>Sample project demonstrating the use of the Point-Cloud Library JNI port.</description>
 
 	<repositories>
 		<repository>
